@@ -1,0 +1,7 @@
+C:\Users\leandro.pbarreto1\source\repos\roupabox\roupabox\obj\Debug\roupabox.csproj.AssemblyReference.cache
+C:\Users\leandro.pbarreto1\source\repos\roupabox\roupabox\obj\Debug\roupabox.csproj.CoreCompileInputs.cache
+C:\Users\leandro.pbarreto1\source\repos\roupabox\roupabox\bin\Debug\roupabox.exe.config
+C:\Users\leandro.pbarreto1\source\repos\roupabox\roupabox\bin\Debug\roupabox.exe
+C:\Users\leandro.pbarreto1\source\repos\roupabox\roupabox\bin\Debug\roupabox.pdb
+C:\Users\leandro.pbarreto1\source\repos\roupabox\roupabox\obj\Debug\roupabox.exe
+C:\Users\leandro.pbarreto1\source\repos\roupabox\roupabox\obj\Debug\roupabox.pdb
