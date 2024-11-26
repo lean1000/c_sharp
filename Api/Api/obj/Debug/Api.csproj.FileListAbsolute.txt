@@ -1,0 +1,10 @@
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\bin\Debug\Api.exe.config
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\bin\Debug\Api.exe
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\bin\Debug\Api.pdb
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\obj\Debug\Api.csproj.AssemblyReference.cache
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\obj\Debug\Api.csproj.Up2Date
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\obj\Debug\Api.exe
+C:\Users\leandro.pbarreto1\source\repos\Api\Api\obj\Debug\Api.pdb
