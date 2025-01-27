@@ -1,0 +1,10 @@
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\bin\Debug\Sitema2.exe.config
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\bin\Debug\Sitema2.exe
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\bin\Debug\Sitema2.pdb
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\obj\Debug\Sitema2.csproj.AssemblyReference.cache
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\obj\Debug\Sitema2.Form1.resources
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\obj\Debug\Sitema2.Properties.Resources.resources
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\obj\Debug\Sitema2.csproj.GenerateResource.cache
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\obj\Debug\Sitema2.csproj.CoreCompileInputs.cache
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\obj\Debug\Sitema2.exe
+C:\Users\vagner.lourenco\source\repos\Sitema2\Sitema2\obj\Debug\Sitema2.pdb
