@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leandro.pbarreto1\\source\\repos\\Lanches_maju\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\c_sharp\\Lanches_maju\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C7592E4-7933-4F22-AEF9-FDDE36414BE3}|Lanches_maju\\Lanches_maju.csproj|c:\\users\\leandro.pbarreto1\\source\\repos\\lanches_maju\\lanches_maju\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C7592E4-7933-4F22-AEF9-FDDE36414BE3}|Lanches_maju\\Lanches_maju.csproj|c:\\xampp\\htdocs\\c_sharp\\lanches_maju\\lanches_maju\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C7592E4-7933-4F22-AEF9-FDDE36414BE3}|Lanches_maju\\Lanches_maju.csproj|solutionrelative:lanches_maju\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\leandro.pbarreto1\\source\\repos\\Lanches_maju\\Lanches_maju\\Form1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\c_sharp\\Lanches_maju\\Lanches_maju\\Form1.cs",
               "RelativeDocumentMoniker": "Lanches_maju\\Form1.cs",
-              "ToolTip": "C:\\Users\\leandro.pbarreto1\\source\\repos\\Lanches_maju\\Lanches_maju\\Form1.cs [Design]",
+              "ToolTip": "C:\\xampp\\htdocs\\c_sharp\\Lanches_maju\\Lanches_maju\\Form1.cs [Design]",
               "RelativeToolTip": "Lanches_maju\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T13:36:34.043Z",
